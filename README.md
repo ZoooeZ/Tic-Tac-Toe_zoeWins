@@ -5,7 +5,7 @@ This is a classic Tic-Tac-Toe game implemented in Java, where two players use di
 
 ![zoeWins](https://github.com/ZoooeZ/zoeWins/assets/91338223/6628aad2-5da9-4573-b83e-6279d0c3a9f5)
 
-<img src="https://github.com/ZoooeZ/zoeWins/assets/91338223/6628aad2-5da9-4573-b83e-6279d0c3a9f5" width="200" height="150)
+<img src="https://github.com/ZoooeZ/zoeWins/assets/91338223/6628aad2-5da9-4573-b83e-6279d0c3a9f5" width="15" height="20)
 
 
 ## Game Rules
